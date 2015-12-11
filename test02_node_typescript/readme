@@ -1,0 +1,13 @@
+tsd init
+
+cat tsd.json
+
+tsd query node
+
+tsd install node --save
+
+cat tsd.json
+
+tsc --init
+
+cat tsconfig.json
