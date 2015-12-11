@@ -1,6 +1,6 @@
 # nodelearn
 
-Learning node.js and other javascript world technololies on ubuntu machines
+Learning node.js and other javascript world technologies on ubuntu machines
 
 ubuntu 14.04
 
